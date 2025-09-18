@@ -2,7 +2,8 @@
 
 **AgriGPT** is a dual-function digital platform designed to support farmers with **agricultural knowledge** and **data-driven crop recommendations**. It integrates a **GPT-2 AI assistant** for answering queries and a **Machine Learning crop recommendation system** that predicts suitable crops based on soil and environmental parameters.
 
-Live Link: https://agrigpt.luminatechbd.site/
+### Live Link: https://agrigpt.luminatechbd.site/
+
 Note: Updated the UI and deployed in server for better user experience (React + Django + MySQL).
 
 ---
@@ -122,3 +123,4 @@ Note: Updated the UI and deployed in server for better user experience (React + 
 -   **Md. Jisan Ahmed**
 
 -   Email: `jisan3325@gmail.com`
+
