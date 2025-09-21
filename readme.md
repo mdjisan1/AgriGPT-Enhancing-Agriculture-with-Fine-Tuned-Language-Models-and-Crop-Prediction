@@ -118,12 +118,13 @@ Note: Updated the UI and deployed in server for better user experience (React + 
 
 ---
 
-## Author
+## Authors
 
 **Isha Das**  
 📧 [isha@idtechsolutionsbd.com]  
 
 **Md Jisan Ahmed**  
 📧 [jisan3325@gmail.com]  
+
 
 
