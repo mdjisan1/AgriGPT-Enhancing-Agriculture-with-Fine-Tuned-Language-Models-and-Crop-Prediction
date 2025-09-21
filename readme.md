@@ -120,7 +120,10 @@ Note: Updated the UI and deployed in server for better user experience (React + 
 
 ## Author
 
--   **Md. Jisan Ahmed**
+**Isha Das**  
+📧 [isha@idtechsolutionsbd.com]  
 
--   Email: `jisan3325@gmail.com`
+**Md Jisan Ahmed**  
+📧 [jisan3325@gmail.com]  
+
 
